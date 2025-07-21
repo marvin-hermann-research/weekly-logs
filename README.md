@@ -4,13 +4,13 @@ This repository serves as a chronological archive of my weekly logs. Each entry 
 
 ---
 
-## 🗂️ Structure
+## Structure
 
 - Each log is a Markdown file named by date:  
   `YYYY-MM-DD.md`
 ---
 
-## 📌 Content of Each Log
+## Content of Each Log
 
 Each weekly log contains:
 
@@ -28,7 +28,7 @@ Each weekly log contains:
 
 ---
 
-## 🧭 Purpose
+## Purpose
 
 This log system is designed for self-reflection, pattern recognition in personal growth, and transparent documentation of my learning journey.
 
